@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Scott R Christian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 23:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 23:28:18 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post for Troubleshooting</title>
+      <link>/2024/05/30/test-post-for-troubleshooting/</link>
+      <pubDate>Thu, 30 May 2024 23:28:18 +0000</pubDate>
+      <guid>/2024/05/30/test-post-for-troubleshooting/</guid>
+      <description>Just a simple post to see if this will work.</description>
+    </item>
     <item>
       <title>.NET MAUI Deployment Apple Developer Certificates Guide</title>
       <link>/2024/05/30/.net-maui-deployment-apple-developer-certificates-guide/</link>
